@@ -9,7 +9,7 @@ MEGA_EMAIL = "mamokib537@arasj.net"
 MEGA_PASSWORD = "mamokib537@arasj.net"
 
 
-START = " Hi {}  \nI am pet of addy . pay owner then come here to use me . \n\n For more info increase brain \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/addys005'>fuck yourself</a>\nPlease Report Bugs  @addys005"
+START = " Hi {}  \nI am pet of addy . pay owner then come here to use me . \n\n For more info increase brain \n\n Third-Party Website \n Support Added /update \n\n this can do anything with your drive</a>\ndon't report bugs"
 
 HELP = """   <b>AUTHORISE BOT?</b> 
        pay owner then come here otherwise
