@@ -9,16 +9,16 @@ MEGA_EMAIL = "mamokib537@arasj.net"
 MEGA_PASSWORD = "mamokib537@arasj.net"
 
 
-START = " Hi {}  \nI am Drive Uploader Bot . Please Authorise To use me .By using /auth \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/aryan_bots'>Join Channel</a>\nPlease Report Bugs  @addys005"
+START = " Hi {}  \nI am pet of addy . pay user then come here to use me . \n\n For more info increase brain \n\n Third-Party Website \n Support Added /update \n\n For Bot Updates  \n <a href ='https://t.me/addys005'>fuck yourself</a>\nPlease Report Bugs  @addys005"
 
-HELP = """   <b>AUTHORISE BOT</b> 
-       Use  /fuckme Command Generate
-       Your Google Drive Token And 
-       Send It To Bot  
-<b> You Wanna Change Your Login 
-        Account ?</b> \n
-        You Can Use /fuckme 
-        command            
+HELP = """   <b>AUTHORISE BOT?</b> 
+       pay owner then come here otherwise
+       Generate google drive token
+       and put it in your ass 
+         
+<b> did you pay owner? 
+        pay and use ?</b> \n
+        You can't use this bot           
 <b>What I Can Do With This Bot? </b>
             You Can Upload Any Internet
             Files On Your google
