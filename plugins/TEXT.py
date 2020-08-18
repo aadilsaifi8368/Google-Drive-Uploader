@@ -11,7 +11,7 @@ MEGA_PASSWORD = "mamokib537@arasj.net"
 
 STARTup = " Hi {}  \nI am Drive Uploader Bot . Please pay owner to use me .chat with @addys005 \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n Don't ask for update  \n <a href ='https://t.me/addys005'>for any help</a>\nDon't report for bugs  @addys005"
 
-HELP = """   <b>AUTHORISE BOT?</b> 
+HELPhu = """   <b>AUTHORISE BOT?</b> 
        pay owner then come here otherwise
        Generate google drive token
        and put it in your ass 
@@ -57,7 +57,7 @@ DROPBOX = True
 MEGA = True
 
 
-UPDATE = """ <b> Update  on  27.07.2019</b>
+UPDATEes = """ <b> Update  on  27.07.2019</b>
             * MEGA LINK added
             * Error Handling Improved
 
