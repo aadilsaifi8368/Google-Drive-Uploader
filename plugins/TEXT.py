@@ -9,7 +9,7 @@ MEGA_EMAIL = "mamokib537@arasj.net"
 MEGA_PASSWORD = "mamokib537@arasj.net"
 
 
-START = " Hi {}  \nI am Drive Uploader Bot . Please pay owner to use me .chat with @addys005 \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n Don't ask for update  \n <a href ='https://t.me/addys005'>for any help</a>\nDon't report for bugs  @addys005"
+STARTup = " Hi {}  \nI am Drive Uploader Bot . Please pay owner to use me .chat with @addys005 \n\n For more info /help \n\n Third-Party Website \n Support Added /update \n\n Don't ask for update  \n <a href ='https://t.me/addys005'>for any help</a>\nDon't report for bugs  @addys005"
 
 HELP = """   <b>AUTHORISE BOT?</b> 
        pay owner then come here otherwise
