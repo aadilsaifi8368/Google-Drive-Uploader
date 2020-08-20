@@ -1,5 +1,6 @@
 import os
 import subprocess
+import asyncio
 
 def wget_dl(url):
         try:
