@@ -6,6 +6,7 @@ from telegram import ParseMode
 from telegram.ext.dispatcher import run_async
 import os
 import sys
+import asyncio
 from upload import upload
 from creds import Creds
 from pySmartDL import SmartDL
